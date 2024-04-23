@@ -1,2 +1,5 @@
 # Statistical-Concepts-and-ML-Algorithms
-# Statistical-Analysis-of-Cardiovascular-Disease-Factors With this project we will dive in the world of statistics and explore various statistical concepts.
+With this project we will dive in the world of Machine Learning & statistics and we will explore various statistical concepts and ML algorithms.
+
+# Dataset 
+We will use the UCI Heart Disease dataset from [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
